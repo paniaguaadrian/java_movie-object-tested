@@ -13,7 +13,7 @@
 
 ## Exaplanation of the method
 
-- Prints on the terminal three random words choosed randomly from 3 different lists.
+- Prints on the terminal the movie that is playing
 
 Terminal output:
 
